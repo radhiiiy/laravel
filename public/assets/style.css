@@ -2,3 +2,6 @@ body{
     margin: 0 auto;
     color: aqua;
 }
+.container{
+    margin: 20px;
+}
