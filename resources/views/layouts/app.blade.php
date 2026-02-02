@@ -11,6 +11,7 @@
 <body class="bg-light">
     <div class="container mt-4">
         @yield('content')
+        <a href="/siswa/create" class="btn btn-primary mb-3">Tambah Siswa</a>
     </div>
 
 </body>
